@@ -1,11 +1,11 @@
-About r-medrxivr
-================
+About r-medrxivr-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-medrxivr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/ropensci/medrxivr
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-medrxivr-feedstock/blob/main/LICENSE.txt)
 
 Summary: An increasingly important source of health-related bibliographic content are preprints - preliminary versions of research articles that have yet to undergo peer review. The two preprint repositories most relevant to health-related sciences are medRxiv <https://www.medrxiv.org/> and bioRxiv <https://www.biorxiv.org/>, both of which are operated by the Cold Spring Harbor Laboratory. 'medrxivr' provides programmatic access to the 'Cold Spring Harbour Laboratory (CSHL)' API <https://api.biorxiv.org/>, allowing users to easily download medRxiv and bioRxiv preprint metadata (e.g. title, abstract, publication date, author list, etc) into R. 'medrxivr' also provides functions to search the downloaded preprint records using regular expressions and Boolean logic, as well as helper functions that allow users to export their search results to a .BIB file for easy import to a reference manager and to download the full-text PDFs of preprints matching their search criteria.
 
